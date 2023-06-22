@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  button{
+    cursor: pointer;
+       
+  }
+  
+  body{
+    background-color: brown
+    color blueviolet;
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+
+  }
+      
+ 
+
+
+  }
+  }
+                              
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div[id="topico"]{
+    color:black;
+
+}
+div[id="iniciar"]{
+    color:black;
+    
+}
+
+div[id="perguntas_filme"]{
+    color:blue;
+    display: flex;
+    justify-content: space-between;
+    
+}
+div[id="pergunta_um"]{
+    color:blue;
+    
+}
+div[id="pergunta_dois"]{
+    color:blue;
+    
+}
+div[id="pergunta_tres"]{
+    color:blue;
+    
+}
+div[id="pergunta_quatro"]{
+    color:blue;
+    
+}
+div[id="pergunta_cinco"]{
+    color:blue;
+    
+}
+div[id="pergunta_seis"]{
+    color:blue;
+    
+}
+div[id="pergunta_sete"]{
+    color:blue;
+    
+}
